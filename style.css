@@ -1,0 +1,22 @@
+
+.NewsFeedProfile {
+	height: 250px;
+	width: 250px;
+	margin: auto;
+	margin-top: 10px;
+
+}
+
+
+.profileActionButton{
+	margin-top: 40px;
+}
+
+
+.commentBox {
+	margin: auto;
+	width: 600px;
+	margin-top: 40px;
+
+}
+
